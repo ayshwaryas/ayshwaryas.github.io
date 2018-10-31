@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computational Biologist by training. I work at the [Broad Institute](https://www.broadinstitute.org) with [Anna Greka](http://grekalab.bwh.harvard.edu/anna-greka/) and [Aviv Regev](https://www.broadinstitute.org/regev-lab). My research focus is single-cell biology, primarily computational approaches for understanding human health and disease leveraging single-cell transcriptomics. I am involved in the [Human Cell Atlas's](https://www.humancellatlas.org) efforts on kidney. 
+I am a Computational Biologist at the [Broad Institute](https://www.broadinstitute.org) with [Anna Greka](http://grekalab.bwh.harvard.edu/anna-greka/) and [Aviv Regev](https://www.broadinstitute.org/regev-lab). My research focus is single-cell biology, primarily computational approaches for understanding human health and disease leveraging single-cell transcriptomics. I am involved in the [Human Cell Atlas's](https://www.humancellatlas.org) efforts on kidney. 
 
 Brief Bio
 ======
