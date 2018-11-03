@@ -11,6 +11,7 @@ author_profile: true
 
 # Pre-prints
 [1] Korthauer K†, Kimes PK†, Duvallet C ‡, Reyes A‡, Subramanian A‡, Teng M, Shukla C, Alm EJ, Hicks SC. (2018). A Practical Guide to Methods Controlling False Discoveries in Computational Biology. bioRxiv. doi: https://doi.org/10.1101/458786
+‡ co-second. CD, AR, AS contributed equally
 
 # Peer-reviewed Journal Articles
 6. Mehta RS, Abu-Ali GS, Drew DA, Lloyd-Price J, Subramanian A, Lochhead P, Joshi AD, Ivey KL, Khalili H, Brown GT, DuLong C, Song M, Nguyen LH, Mallick H, Rimm E, Izard J, Huttenhower C, Chan AT. Stability of the human faecal microbiome in a cohort of adult men. Nat Microbiol. 2018 Mar;3(3):347-355.PMID: 29335554
