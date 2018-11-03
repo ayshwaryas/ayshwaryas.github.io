@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 [Google Scholar](https://scholar.google.com/citations?user=vZ3eqqIAAAAJ&hl=en)
-[Publons] (https://publons.com/author/1243523/ayshwarya-subramanian#profile)
+
+[Publons](https://publons.com/author/1243523/ayshwarya-subramanian#profile)
 
 # Pre-prints
 [1] Korthauer K†, Kimes PK†, Duvallet C ‡, Reyes A‡, Subramanian A‡, Teng M, Shukla C, Alm EJ, Hicks SC. (2018). A Practical Guide to Methods Controlling False Discoveries in Computational Biology. bioRxiv. doi: https://doi.org/10.1101/458786
