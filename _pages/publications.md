@@ -11,6 +11,7 @@ author_profile: true
 
 # Pre-prints
 [1] Korthauer K†, Kimes PK†, Duvallet C ‡, Reyes A‡, Subramanian A‡, Teng M, Shukla C, Alm EJ, Hicks SC. (2018). A Practical Guide to Methods Controlling False Discoveries in Computational Biology. bioRxiv. doi: https://doi.org/10.1101/458786
+
 ‡ co-second. CD, AR, AS contributed equally
 
 # Peer-reviewed Journal Articles
