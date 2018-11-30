@@ -10,12 +10,12 @@ author_profile: true
 [Publons](https://publons.com/author/1243523/ayshwarya-subramanian#profile)
 
 # Pre-prints
-[1] Korthauer K†, Kimes PK†, Duvallet C ‡, Reyes A‡, Subramanian A‡, Teng M, Shukla C, Alm EJ, Hicks SC. (2018). A Practical Guide to Methods Controlling False Discoveries in Computational Biology. bioRxiv. doi: https://doi.org/10.1101/458786
+[1] Korthauer K†, Kimes PK†, Duvallet C ‡, Reyes A‡, *Subramanian A‡*, Teng M, Shukla C, Alm EJ, Hicks SC. (2018). A Practical Guide to Methods Controlling False Discoveries in Computational Biology. bioRxiv. doi: https://doi.org/10.1101/458786
 
 ‡ co-second. CD, AR, AS contributed equally
 
 # Peer-reviewed Journal Articles
-6. Mehta RS, Abu-Ali GS, Drew DA, Lloyd-Price J, Subramanian A, Lochhead P, Joshi AD, Ivey KL, Khalili H, Brown GT, DuLong C, Song M, Nguyen LH, Mallick H, Rimm E, Izard J, Huttenhower C, Chan AT. Stability of the human faecal microbiome in a cohort of adult men. Nat Microbiol. 2018 Mar;3(3):347-355.PMID: 29335554
+6. Mehta RS, Abu-Ali GS, Drew DA, Lloyd-Price J, *Subramanian A*, Lochhead P, Joshi AD, Ivey KL, Khalili H, Brown GT, DuLong C, Song M, Nguyen LH, Mallick H, Rimm E, Izard J, Huttenhower C, Chan AT. Stability of the human faecal microbiome in a cohort of adult men. Nat Microbiol. 2018 Mar;3(3):347-355.PMID: 29335554
 5. Subramanian A and Schwartz R. Reference-free inference of tumor phylogenies from single- cell sequencing data. BMC Genomics. 2015;16 Suppl 11:S7. PMID: 26576947
 4. Subramanian A, Shackney S, Schwartz R. Novel multi-sample scheme for inferring phyloge- netic markers from whole genome tumor profiles. IEEE/ACM Trans Comput Biol Bioinform. 2013 Apr 23. PMID: 24407301
 3. Subramanian A, Shackney S, Schwartz R. Inference of tumor phylogenies from genomic assays on heterogeneous samples. J Biomed Biotechnol. 2012; 2012:797812. PMID:22654484
