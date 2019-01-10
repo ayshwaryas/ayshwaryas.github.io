@@ -10,8 +10,12 @@ author_profile: true
 [Publons](https://publons.com/author/1243523/ayshwarya-subramanian#profile)
 
 # Pre-prints
-[1] Korthauer K†, Kimes PK†, Duvallet C ‡, Reyes A‡, **Subramanian A‡**, Teng M, Shukla C, Alm EJ, Hicks SC. (2018). A Practical Guide to Methods Controlling False Discoveries in Computational Biology. bioRxiv. doi: https://doi.org/10.1101/458786
 
+**Subramanian A†**, Sidhom EH†, Emani M†, Sahakian N, Vernon K, Zhou Y, Kost-Alimova Maria, Weins A, Slyper M, Waldman J, Dionne D, Nguyen L, Marshall JL, Rozenblatt-Rosen O, Regev A, Greka A. (2019). Kidney organoid reproducibility across multiple human iPSC lines and diminished off target cells after transplantation revealed by single cell transcriptomics. bioRxiv. doi: https://doi.org/10.1101/516807 
+
+Korthauer K†, Kimes PK†, Duvallet C ‡, Reyes A‡, **Subramanian A‡**, Teng M, Shukla C, Alm EJ, Hicks SC. (2018). A Practical Guide to Methods Controlling False Discoveries in Computational Biology. bioRxiv. doi: https://doi.org/10.1101/458786
+
+† co-first
 ‡ co-second. CD, AR, AS contributed equally
 
 # Peer-reviewed Journal Articles
