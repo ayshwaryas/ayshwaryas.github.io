@@ -9,17 +9,15 @@ author_profile: true
 
 [Publons](https://publons.com/author/1243523/ayshwarya-subramanian#profile)
 
-# Pre-prints
+† Shared first-authorship
 
-**Subramanian A†**, Sidhom EH†, Emani M†, Sahakian N, Vernon K, Zhou Y, Kost-Alimova Maria, Weins A, Slyper M, Waldman J, Dionne D, Nguyen L, Marshall JL, Rozenblatt-Rosen O, Regev A, Greka A. (2019). Kidney organoid reproducibility across multiple human iPSC lines and diminished off target cells after transplantation revealed by single cell transcriptomics. bioRxiv. doi: https://doi.org/10.1101/516807 
-
-Korthauer K†, Kimes PK†, Duvallet C ‡, Reyes A‡, **Subramanian A‡**, Teng M, Shukla C, Alm EJ, Hicks SC. (2018). A Practical Guide to Methods Controlling False Discoveries in Computational Biology. bioRxiv. doi: https://doi.org/10.1101/458786
-
-† co-first
-
-‡ co-second. CD, AR, AS contributed equally
+‡ Shared second-authorship. CD, AR, AS contributed equally
 
 # Peer-reviewed Journal Articles
+10. **Subramanian A†**, Sidhom EH†, Emani M†, Vernon K, Sahakian N, Zhou Y, Kost-Alimova M, Slyper M, Waldman J, Dionne D, Nguyen LT, Weins A, Marshall JL, Rosenblatt-Rosen O, Regev A, Greka A. Single cell census of human kidney organoids shows reproducibility and diminished off-target cells after transplantation. Nat Commun. 2019 Nov 29;10(1):5462. doi: 10.1038/s41467-019-13382-0. PMID: 31784515; PMCID: PMC6884507.
+9. Korthauer K†, Kimes PK†, Duvallet C ‡, Reyes A‡, **Subramanian A‡**, Teng M, Shukla C, Alm EJ, Hicks SC. A practical guide to methods controlling false discoveries in computational biology. Genome Biol. 2019 Jun 4;20(1):118. doi: 10.1186/s13059-019-1716-1. PMID: 31164141; PMCID: PMC6547503.
+8. Kalluri AS, Vellarikkal SK, Edelman ER, Nguyen L, **Subramanian A**, Ellinor PT, Regev A, Kathiresan S, Gupta RM. Single-Cell Analysis of the Normal Mouse Aorta Reveals Functionally Distinct Endothelial Cell Populations. Circulation. 2019;140(2):147–163. doi:10.1161/CIRCULATIONAHA.118.038362
+7. Baryawno N, Przybylski D, Kowalczyk MS, Kfoury Y, Severe N, Gustafsson K, Kokkaliaris KD, Mercier F, Tabaka M, Hofree M, Dionne D, Papazian A, Lee D, Ashenberg O, **Subramanian A**, Vaishnav ED, Rozenblatt-Rosen O, Regev A, Scadden DT. A Cellular Taxonomy of the Bone Marrow Stroma in Homeostasis and Leukemia. Cell. 2019;177(7):1915–1932.e16. doi:10.1016/j.cell.2019.04.040
 6. Mehta RS, Abu-Ali GS, Drew DA, Lloyd-Price J, **Subramanian A**, Lochhead P, Joshi AD, Ivey KL, Khalili H, Brown GT, DuLong C, Song M, Nguyen LH, Mallick H, Rimm E, Izard J, Huttenhower C, Chan AT. Stability of the human faecal microbiome in a cohort of adult men. Nat Microbiol. 2018 Mar;3(3):347-355.PMID: 29335554
 5. **Subramanian A** and Schwartz R. Reference-free inference of tumor phylogenies from single- cell sequencing data. BMC Genomics. 2015;16 Suppl 11:S7. PMID: 26576947
 4. **Subramanian A**, Shackney S, Schwartz R. Novel multi-sample scheme for inferring phyloge- netic markers from whole genome tumor profiles. IEEE/ACM Trans Comput Biol Bioinform. 2013 Apr 23. PMID: 24407301
