@@ -30,7 +30,7 @@ endothelial cells. 2020. bioRxiv doi: https://doi.org/10.1101/2020.06.23.167098
 
 # Peer-reviewed Journal Articles
 21. Kaur G, Porter C.B.M., Ashenberg O, Lee J, Riesenfeld S.J., Hofree M, Aggelakopoulou M,
-Subramanian A, et al. 2021. Mouse fetal growth restriction through parental and fetal immune gene variation and intercellular communications cascade. Nat Commun. 2022 Jul 29;13(1):4398. doi: 10.1038/s41467-022-32171-w. PMID: 35906236.
+Subramanian A, et al. 2021. Mouse fetal growth restriction through parental and fetal immune gene variation and intercellular communications cascade. Nat Commun. 2022 Jul 29;13(1):4398. [doi: ](https://doi.org/1)10.1038/s41467-022-32171-w. PMID: 35906236.
 20. Zhang Y, Bhosle A, Bae S, McIver L, Accorsi E, Thompson K, Arze C, Wang Y, **Subramanian
 A**, et al. Identifying Novel Bioactive Microbial Gene Products in Inflammatory Bowel Disease.
 Nature 2022 (in press).
