@@ -27,8 +27,6 @@ bioRxiv 2021.05.30.446342; doi: https://doi.org/10.1101/2021.05.30.446342.
 ease, and expression of ACE2, the entry receptor for SARS-CoV-2, in kidney epithelial and
 endothelial cells. 2020. bioRxiv doi: https://doi.org/10.1101/2020.06.23.167098
 
-[4] 
-
 
 # Peer-reviewed Journal Articles
 21. Kaur G, Porter C.B.M., Ashenberg O, Lee J, Riesenfeld S.J., Hofree M, Aggelakopoulou M,
