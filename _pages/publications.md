@@ -13,33 +13,36 @@ author_profile: true
 
 ‡ Shared second-authorship. 
 
-Pre-prints/Under review
+# Pre-prints/Under review
+
 [1] Subramanian A†, Alperovich M†, Yang Y and Li Bo. Biology-inspired data-driven quality
 control for scientific discovery in single-cell transcriptomics. bioRxiv 2021.10.27.466176; doi:
 https://doi.org/10.1101/2021.10.27.466176.
+
 [2] Subramanian A†, Vernon KA†, Zhou Y† et al. Obesity-instructed TREM2high macrophages
 identified by comparative analysis of diabetic mouse and human kidney at single cell resolution.
 bioRxiv 2021.05.30.446342; doi: https://doi.org/10.1101/2021.05.30.446342.
+
 [3] Subramanian A†,Vernon KA†, Slyper M, Waldman J, et al. RAAS blockade, kidney dis-
 ease, and expression of ACE2, the entry receptor for SARS-CoV-2, in kidney epithelial and
 endothelial cells. 2020. bioRxiv doi: https://doi.org/10.1101/2020.06.23.167098
-[4] Kaur G, Porter C.B.M., Ashenberg O, Lee J, Riesenfeld S.J., Hofree M, Aggelakopoulou M,
-Subramanian A, et al. 2021. Parental-fetal interplay of immune genes leads to intrauterine
-growth restriction. bioRxiv 2021.03.26.437292; doi: https://doi.org/10.1101/2021.03.26.437292
 
+[4] 
 
 
 # Peer-reviewed Journal Articles
+21. Kaur G, Porter C.B.M., Ashenberg O, Lee J, Riesenfeld S.J., Hofree M, Aggelakopoulou M,
+Subramanian A, et al. 2021. Mouse fetal growth restriction through parental and fetal immune gene variation and intercellular communications cascade. Nat Commun. 2022 Jul 29;13(1):4398. doi: 10.1038/s41467-022-32171-w. PMID: 35906236.
 20. Zhang Y, Bhosle A, Bae S, McIver L, Accorsi E, Thompson K, Arze C, Wang Y, **Subramanian
 A**, et al. Identifying Novel Bioactive Microbial Gene Products in Inflammatory Bowel Disease.
 Nature 2022 (in press).
 19. Eraslan G†, Drokhlyansky E†, Anand S‡, Fiskin E‡, **Subramanian A‡**, et al. Single-nucleus
 cross-tissue molecular reference maps to decipher disease gene function. bioRxiv 2021.07.19.452954;
-doi: https://doi.org/10.1101/2021.07.19.452954. Science 2022 (in press).
+doi: https://doi.org/10.1101/2021.07.19.452954. Science 2022.
 18. Marshall JL†, Noel T†, Wang QS†, Bazua-Valenti S†, Chen H†, Murray E, **Subramanian A** et
 al. High Resolution Slide-seqV2 Spatial Transcriptomics Enables Discovery of Disease-Specific
 Cell Neighborhoods and Pathways. bioRxiv 2021.10.10.463829; doi: https://doi.org/10.1101/2021.10.10.463
-iScience. 2022 (in press).
+iScience. 2022.
 17. Tang R, Acharya N, **Subramanian A**, et al. Tim-3 adapter protein Bat3 acts as an en-
 dogenous regulator of tolerogenic dendritic cell function. Science Immunology. 2022 Mar
 11;7(69):eabm0631. doi: 10.1126/sciimmunol.abm0631. Epub 2022 Mar 11. PMID: 35275752.
