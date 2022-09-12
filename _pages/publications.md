@@ -15,22 +15,26 @@ author_profile: true
 
 # Pre-prints/Under review
 
-[1] Subramanian A†, Alperovich M†, Yang Y and Li Bo. Biology-inspired data-driven quality
+[1] **Subramanian A†**, Alperovich M†, Yang Y and Li Bo. Biology-inspired data-driven quality
 control for scientific discovery in single-cell transcriptomics. bioRxiv 2021.10.27.466176; doi:
-https://doi.org/10.1101/2021.10.27.466176.
+https://doi.org/10.1101/2021.10.27.466176. in revisions.
 
-[2] Subramanian A†, Vernon KA†, Zhou Y† et al. Obesity-instructed TREM2high macrophages
+[2] **Subramanian A†**, Vernon KA†, Zhou Y† et al. Obesity-instructed TREM2high macrophages
 identified by comparative analysis of diabetic mouse and human kidney at single cell resolution.
-bioRxiv 2021.05.30.446342; doi: https://doi.org/10.1101/2021.05.30.446342.
+bioRxiv 2021.05.30.446342; doi: https://doi.org/10.1101/2021.05.30.446342. in revisions.
 
-[3] Subramanian A†,Vernon KA†, Slyper M, Waldman J, et al. RAAS blockade, kidney dis-
+[3] **Subramanian A†**,Vernon KA†, Slyper M, Waldman J, et al. RAAS blockade, kidney dis-
 ease, and expression of ACE2, the entry receptor for SARS-CoV-2, in kidney epithelial and
 endothelial cells. 2020. bioRxiv doi: https://doi.org/10.1101/2020.06.23.167098
+
+[4] Mangani D,**Subramanian A‡**,Huang L‡ et al. A TCF1-driven regulatory network determines homeostatic versus pathogenic Th17 cell state. in revisions.
+
+[5] Wilder  A, Supple M,**Subramanian A‡** et al. Historical processes shape contemporary extinction risk in placental mammals. in revisions.
 
 
 # Peer-reviewed Journal Articles
 21. Kaur G, Porter C.B.M., Ashenberg O, Lee J, Riesenfeld S.J., Hofree M, Aggelakopoulou M,
-Subramanian A, et al. 2021. Mouse fetal growth restriction through parental and fetal immune gene variation and intercellular communications cascade. Nat Commun. 2022 Jul 29;13(1):4398. [doi: ](https://doi.org/1)10.1038/s41467-022-32171-w. PMID: 35906236.
+**Subramanian A**, et al. 2021. Mouse fetal growth restriction through parental and fetal immune gene variation and intercellular communications cascade. Nat Commun. 2022 Jul 29;13(1):4398. [doi: ](https://doi.org/1)10.1038/s41467-022-32171-w. PMID: 35906236.
 20. Zhang Y, Bhosle A, Bae S, McIver L, Accorsi E, Thompson K, Arze C, Wang Y, **Subramanian
 A**, et al. Identifying Novel Bioactive Microbial Gene Products in Inflammatory Bowel Disease.
 Nature 2022 (in press).
