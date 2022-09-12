@@ -29,7 +29,7 @@ endothelial cells. 2020. bioRxiv doi: https://doi.org/10.1101/2020.06.23.167098
 
 [4] Mangani D,**Subramanian A‡**,Huang L‡ et al. A TCF1-driven regulatory network determines homeostatic versus pathogenic Th17 cell state. in revisions.
 
-[5] Wilder  A, Supple M,**Subramanian A‡** et al. Historical processes shape contemporary extinction risk in placental mammals. in revisions.
+[5] Wilder  A, Supple M,**Subramanian A** et al. Historical processes shape contemporary extinction risk in placental mammals. in revisions.
 
 
 # Peer-reviewed Journal Articles
