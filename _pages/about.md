@@ -9,6 +9,8 @@ redirect_from:
   - /about.html
 ---
 
+My page has moved to [https://www.cellhomology.space/](https://www.cellhomology.space/). 
+
 I am a Computational Biologist at the [Klarman Cell Observatory](https://www.broadinstitute.org/klarman-cell-observatory) at the [Broad Institute](https://www.broadinstitute.org) working with [Aviv Regev](https://www.broadinstitute.org/regev-lab), [Vijay Kuchroo](https://kuchroolab.bwh.harvard.edu/) and [Ana Anderson](https://anacandersonlab.com/). I am involved in the [Human Cell Atlas's](https://www.humancellatlas.org) efforts on kidney with [Anna Greka](http://grekalab.bwh.harvard.edu/anna-greka/). 
 
 My research focus is on decoding heterogeneity and evolution of states in complex human diseases across scales from cells to systems. I am interested in the design, development, and applications of computational data analyses methods for the understanding of human health and disease, its prevention and treatment. I work at the interface of high-throughput omics, applied statistics and machine learning, and experimental design.
